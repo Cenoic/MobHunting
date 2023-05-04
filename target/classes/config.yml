@@ -1,0 +1,95 @@
+mobs:
+  ZOMBIE:
+    head-item: PLAYER_HEAD
+    head-owner: 'MHF_Zombie'
+    drop-rate: 1.0
+    permission: mobhunting.zombie
+  SKELETON:
+    head-item: PLAYER_HEAD
+    head-owner: 'MHF_Skeleton'
+    drop-rate: 1.0
+    permission: mobhunting.skeleton
+  CREEPER:
+    head-item: CREEPER_HEAD
+    drop-rate: 1.0
+    permission: mobhunting.creeper
+  SPIDER:
+    head-item: PLAYER_HEAD
+    head-owner: 'MHF_Spider'
+    drop-rate: 1.0
+    permission: mobhunting.spider
+  CAVE_SPIDER:
+    head-item: PLAYER_HEAD
+    head-owner: 'MHF_CaveSpider'
+    drop-rate: 1.0
+    permission: mobhunting.cavespider
+  ENDERMAN:
+    head-item: PLAYER_HEAD
+    head-owner: 'MHF_Enderman'
+    drop-rate: 1.0
+    permission: mobhunting.enderman
+  BLAZE:
+    head-item: PLAYER_HEAD
+    head-owner: 'MHF_Blaze'
+    drop-rate: 1.0
+    permission: mobhunting.blaze
+  GHAST:
+    head-item: PLAYER_HEAD
+    head-owner: 'MHF_Ghast'
+    drop-rate: 1.0
+    permission: mobhunting.ghast
+  MAGMA_CUBE:
+    head-item: PLAYER_HEAD
+    head-owner: 'MHF_LavaSlime'
+    drop-rate: 1.0
+    permission: mobhunting.magmacube
+  SLIME:
+    head-item: PLAYER_HEAD
+    head-owner: 'MHF_Slime'
+    drop-rate: 1.0
+    permission: mobhunting.slime
+  WITCH:
+    head-item: PLAYER_HEAD
+    head-owner: 'MHF_Witch'
+    drop-rate: 1.0
+    permission: mobhunting.witch
+  WITHER_SKELETON:
+    head-item: PLAYER_HEAD
+    head-owner: 'MHF_WSkeleton'
+    drop-rate: 1.0
+    permission: mobhunting.witherskeleton
+  IRON_GOLEM:
+    head-item: PLAYER_HEAD
+    head-owner: 'MHF_Golem'
+    drop-rate: 1.0
+    permission: mobhunting.irongolem
+  SNOWMAN:
+    head-item: PLAYER_HEAD
+    head-owner: 'MHF_SnowGolem'
+    drop-rate: 1.0
+    permission: mobhunting.snowman
+  PIG:
+    head-item: PLAYER_HEAD
+    head-owner: 'MHF_Pig'
+    drop-rate: 1.0
+    permission: mobhunting.pig
+  COW:
+    head-item: PLAYER_HEAD
+    head-owner: 'MHF_Cow'
+    drop-rate: 1.0
+    permission: mobhunting.cow
+  SHEEP:
+    head-item: PLAYER_HEAD
+    head-owner: 'MHF_Sheep'
+    drop-rate: 1.0
+    permission: mobhunting.sheep
+  CHICKEN:
+    head-item: PLAYER_HEAD
+    head-owner: 'MHF_Chicken'
+    drop-rate: 1.0
+    permission: mobhunting.chicken
+  HORSE:
+    head-item: PLAYER_HEAD
+    head-owner: 'MHF_Horse'
+    drop-rate: 1.0
+    permission: mobhunting.horse
