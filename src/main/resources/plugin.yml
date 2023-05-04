@@ -1,0 +1,15 @@
+name: MobHunting
+version: '${project.version}'
+main: com.senrua.mobhunting.MobHunting
+api-version: 1.19
+
+commands:
+  hunt:
+    description: Allows players to see what trophies they can collect
+    usage: /hunt
+  trophies:
+    description: Allows players to view their collected trophies
+    usage: /trophies
+  displaytrophy:
+    description: Allows players to display their trophy.
+    usage: /displaytrophy
